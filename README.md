@@ -1,4 +1,4 @@
-# 🚀 React Mastery Journey
+# REACT-CODING-ROUND
 
 Welcome to my React learning repository! I created this project to document my journey of learning React.js, from basic concepts to advanced state management and routing. 
 
